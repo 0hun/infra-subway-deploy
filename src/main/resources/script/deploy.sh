@@ -83,8 +83,8 @@ function startServer() {
 }
 
 move;
-pull;
 check_df;
+pull;
 build;
 findPidAndKillPid;
 startServer;
